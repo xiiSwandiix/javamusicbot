@@ -1,5 +1,5 @@
-token=NTkwOTE2ODUyNDgyNTcyMzQ5.XQpMQA.kPMBSju3AiUiQBcSbxIx5W8sAq4
-owner=569841293837074432
-prefix=..
+token=Psico8sDGFB-wUm9J5Gw4svEVYJ0zWQQ
+owner=655857316524064768
+prefix=!
 stayinchannel=true
 songinstatus=true
